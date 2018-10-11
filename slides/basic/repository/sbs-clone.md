@@ -3,7 +3,7 @@
 1. `cd [parent]` into _parent_ folder
 2. `git clone [path]`
 
-<small>make your desktop the parent</small>
+<!-- <small>make your desktop the parent</small> -->
 
 Note:
 Let's clone the repository we just made as an exercise
